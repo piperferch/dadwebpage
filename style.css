@@ -1,3 +1,5 @@
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -43,12 +45,12 @@ table {
 }
 
 /*---------------ALL ABOVE COPIED FOR FUNCTION---------*/
-html, body{
-    height:100%;
+html, body {
+    height: 100%;
     width: 100%; 
-    padding:0;
-    margin:0;
-    background-image: url(tokyo-bg.jpg);
+    padding: 0;
+    margin: 0;
+    background-image: url("tokyo-bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -56,9 +58,9 @@ html, body{
     text-align: center;
 }
 
-.center{
+.center {
     align-self: center;
-    width:30%;
+    width: 30%;
     padding: 3%;
     margin-top: 20px;
     margin-bottom: 25px;
@@ -67,7 +69,7 @@ html, body{
 }
 
 
-.center2{
+.center {
     width: 40%;
     padding: 3%;
     padding-left: 25%;
@@ -75,7 +77,7 @@ html, body{
     text-align: right;
 }
 
-h1{
+h1 {
     text-decoration-line: underline;
     text-decoration-style: solid;
     font-family: calling-code, sans-serif;
@@ -86,7 +88,7 @@ h1{
     margin-bottom: 10px;
 }
 
-h2{
+h2 {
     font-family: calling-code, sans-serif;
     font-style: italic;
     font-size: 1.5 em;
@@ -95,7 +97,7 @@ h2{
     
 }
 
-p{
+#p {
     font-family: calling-code, sans-serif;
     font-style: normal;
     text-align: right;
@@ -103,7 +105,7 @@ p{
     color:rgb(223, 171, 128);
 }
 
-p2{
+#p {
     font-family: calling-code, sans-serif;
     font-style: italic;
     font-size: 1.1em;
